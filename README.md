@@ -15,7 +15,7 @@
 > 4.   若一項活动话费時間很短，不到一個番茄钟，可與其他活動合并
 > 5.   番茄工作法不用于假期和休息期的活动
 
-![今日界面截图](http://today-gtd.coding.io/resource/image/screenshot.jpg "今日界面截图")
+![今日界面截图](https://raw.githubusercontent.com/Bing1983/today-gtd/master/screenshot.png "今日界面截图")
 
 “今日”的工作空间从左至右等比划分为3个区域，分别是：今日任务，番茄钟和统计，明日计划。
 
