@@ -17,6 +17,8 @@
 
 ![今日界面截图](https://raw.githubusercontent.com/Bing1983/today-gtd/master/screenshot.png "今日界面截图")
 
+[项目演示]: http://today.exformation.com.cn/
+
 “今日”的工作空间从左至右等比划分为3个区域，分别是：今日任务，番茄钟和统计，明日计划。
 
 “今日任务”，“番茄钟和统计”帮助用户组织和执行今天的任务，“明日计划”帮助用户提前为下一个工作日的做好任务安排。
