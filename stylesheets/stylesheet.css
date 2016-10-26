@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  line-height: 180%;
 }
 
 /* HTML5 display definitions
@@ -428,9 +429,8 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
-  font-weight: 400;
+  font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,STHeitiSC-Light,simsun,\\5B8B\4F53,WenQuanYi Zen Hei,WenQuanYi Micro Hei,'sans-serif';
+  font-size: 16px;
   line-height: 1.5;
   color: #666;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
@@ -720,7 +720,8 @@ p a {
 blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;
-  font-size: 1.6em;
+  line-height: 180%;
+  color:#999;
   border-left: 10px solid #e9e9e9;
 }
 
