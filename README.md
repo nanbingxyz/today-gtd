@@ -25,4 +25,4 @@
 
 ![今日界面截图](https://raw.githubusercontent.com/Bing1983/today-gtd/master/screenshot.png "今日界面截图")
 
-[项目演示](http://today.exformation.com.cn/ "今日GTD")
+[项目演示](https://service.nanbing.me/today/ "今日GTD")

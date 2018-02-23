@@ -1,6 +1,6 @@
 Const={
 	DB:{
-		NAME : 'today.exformation.com.cn',
+		NAME : 'today.nanbing.me',
 		VERSION : "7.0",
 		TASK_STORE_NAME : 'ex_tasks',
 		TOMATO_STORE_NAME: 'ex_tomatos'
